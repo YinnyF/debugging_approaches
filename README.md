@@ -3,7 +3,7 @@
 'Debugging Approaches' practical exercise from Makers Week 1.
 
 * **Languages used**: Ruby
-
+* **Testing**: RSpec
 
 ## Objective
 
